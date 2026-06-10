@@ -1,0 +1,154 @@
+{
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "sophia_lee",
+        "profilePic": "https://i.pravatar.cc/150?img=4"
+      },
+      "image": "https://picsum.photos/600/600?random=4",
+      "caption": "New recipe, who dis? 🍕",
+      "likes": 530,
+      "comments": [
+        {
+          "user": "olivia_brown",
+          "comment": "Looks delicious!"
+        },
+        {
+          "user": "john_doe",
+          "comment": "Save me a slice!"
+        }
+      ],
+      "timestamp": "2026-06-01T16:45:00Z"
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 105,
+        "username": "michael_smith",
+        "profilePic": "https://i.pravatar.cc/150?img=5"
+      },
+      "image": "https://picsum.photos/600/600?random=5",
+      "caption": "Gym session completed 💪",
+      "likes": 321,
+      "comments": [
+        {
+          "user": "james_anderson",
+          "comment": "Keep grinding!"
+        },
+        {
+          "user": "ava_martin",
+          "comment": "Great work!"
+        }
+      ],
+      "timestamp": "2026-06-02T08:20:00Z"
+    },
+    {
+      "id": 6,
+      "user": {
+        "id": 106,
+        "username": "olivia_brown",
+        "profilePic": "https://i.pravatar.cc/150?img=6"
+      },
+      "image": "https://picsum.photos/600/600?random=6",
+      "caption": "Beach vibes all day 🌊",
+      "likes": 672,
+      "comments": [
+        {
+          "user": "emma_wilson",
+          "comment": "Wish I was there!"
+        },
+        {
+          "user": "alex_johnson",
+          "comment": "Beautiful shot."
+        }
+      ],
+      "timestamp": "2026-06-02T11:10:00Z"
+    },
+    {
+      "id": 7,
+      "user": {
+        "id": 107,
+        "username": "david_clark",
+        "profilePic": "https://i.pravatar.cc/150?img=7"
+      },
+      "image": "https://picsum.photos/600/600?random=7",
+      "caption": "Exploring the city streets 📸",
+      "likes": 278,
+      "comments": [
+        {
+          "user": "mia_thompson",
+          "comment": "Nice click!"
+        },
+        {
+          "user": "john_doe",
+          "comment": "Great perspective."
+        }
+      ],
+      "timestamp": "2026-06-02T15:30:00Z"
+    },
+    {
+      "id": 8,
+      "user": {
+        "id": 108,
+        "username": "ava_martin",
+        "profilePic": "https://i.pravatar.cc/150?img=8"
+      },
+      "image": "https://picsum.photos/600/600?random=8",
+      "caption": "Reading my favorite book 📚",
+      "likes": 193,
+      "comments": [
+        {
+          "user": "sophia_lee",
+          "comment": "What's the title?"
+        },
+        {
+          "user": "michael_smith",
+          "comment": "Looks interesting."
+        }
+      ],
+      "timestamp": "2026-06-03T09:40:00Z"
+    },
+    {
+      "id": 9,
+      "user": {
+        "id": 109,
+        "username": "james_anderson",
+        "profilePic": "https://i.pravatar.cc/150?img=9"
+      },
+      "image": "https://picsum.photos/600/600?random=9",
+      "caption": "Nature never disappoints 🌿",
+      "likes": 488,
+      "comments": [
+        {
+          "user": "olivia_brown",
+          "comment": "So refreshing!"
+        },
+        {
+          "user": "emma_wilson",
+          "comment": "Beautiful scenery."
+        }
+      ],
+      "timestamp": "2026-06-03T13:25:00Z"
+    },
+    {
+      "id": 10,
+      "user": {
+        "id": 110,
+        "username": "mia_thompson",
+        "profilePic": "https://i.pravatar.cc/150?img=10"
+      },
+      "image": "https://picsum.photos/600/600?random=10",
+      "caption": "Late-night design session 🎨",
+      "likes": 357,
+      "comments": [
+        {
+          "user": "david_clark",
+          "comment": "Looks creative!"
+        },
+        {
+          "user": "ava_martin",
+          "comment": "Love the artwork."
+        }
+      ],
+      "timestamp": "2026-06-03T20:15:00Z"
+    }

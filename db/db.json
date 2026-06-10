@@ -1,0 +1,145 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profilePic": "src/assets/profilePic1.jpeg"
+      },
+      "image": "src/assets/profileImg1.jpg",
+      "caption": "Enjoying the beautiful sunset 🌅",
+      "likes": 245,
+      "comments": [
+        {
+          "user": "emma_wilson",
+          "comment": "Amazing view!"
+        },
+        {
+          "user": "alex_johnson",
+          "comment": "Looks peaceful."
+        }
+      ],
+      "timestamp": "2026-06-01T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "emma_wilson",
+        "profilePic": "src/assets/profilePic2.jpeg"
+      },
+      "image": "src/assets/profileImg2.jpg",
+      "caption": "Coffee and coding ☕💻",
+      "likes": 412,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Best combo ever!"
+        },
+        {
+          "user": "mia_thompson",
+          "comment": "Love this vibe."
+        }
+      ],
+      "timestamp": "2026-06-01T12:15:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "alex_johnson",
+        "profilePic": "src/assets/profilePic3.jpeg"
+      },
+      "image": "src/assets/profileImg3.jpg",
+      "caption": "Weekend adventure begins! 🚗",
+      "likes": 189,
+      "comments": [
+        {
+          "user": "sophia_lee",
+          "comment": "Drive safe!"
+        },
+        {
+          "user": "david_clark",
+          "comment": "Have fun!"
+        }
+      ],
+      "timestamp": "2026-06-01T14:00:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "Kamalesh",
+    "profilePic": "src/assets/s-2.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "john_doe",
+      "profilePic": "src/assets/profilePic1.jpeg"
+    },
+    {
+      "id": "102",
+      "username": "emma_wilson",
+      "profilePic": "src/assets/profilePic2.jpeg"
+    },
+    {
+      "id": "103",
+      "username": "alex_johnson",
+      "profilePic": "src/assets/profilePic3.jpeg"
+    },
+    {
+      "id": "104",
+      "username": "johnson",
+      "profilePic": "src/assets/profilePic3.jpeg"
+    },
+    {
+      "id": "105",
+      "username": "alex",
+      "profilePic": "src/assets/profilePic3.jpeg"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profilePic": "src/assets/profilePic1.jpeg"
+      },
+      "img": "http://localhost:5173/src/assets/s-1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "emma_wilson",
+        "profilePic": "src/assets/profilePic2.jpeg"
+      },
+      "img": "http://localhost:5173/src/assets/s-2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "alex_johnson",
+        "profilePic": "src/assets/profilePic3.jpeg"
+      },
+      "img": "http://localhost:5173/src/assets/s-3.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "6PQPrHR7YhM",
+      "username": "john_doe"
+    },
+    {
+      "id": "dzbXjmZDnjQ",
+      "username": "emma_wilson"
+    },
+    {
+      "id": "N5dx6_Ab38Y",
+      "username": "johnson"
+    }
+  ]
+}
